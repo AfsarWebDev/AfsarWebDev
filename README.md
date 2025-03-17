@@ -33,7 +33,7 @@ I'm currently learning **Frontend Development** and excited to build responsive,
 ## 📫 Connect With Me  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/digitalafsar/)  
-🐦 [X]((https://x.com/AfsarWebDev))  
+🐦 [X](https://x.com/AfsarWebDev)  
 💼 [Portfolio](https://yourportfolio.com)  
 📩 Email: [digitalafsarcom@gmail.com](mailto:digitalafsarcom@gmail.com)  
 
