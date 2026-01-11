@@ -25,7 +25,7 @@ A fully responsive **personal portfolio website** showcasing my frontend skills,
 
 ---
 
-### 🌟 AI-Powered Online Resume Builder  
+### 🌟 AI-Powered Online Resume Builder (Live)
 **Tech:** React • Tailwind CSS • Lucide Icons • PrebuiltUI  
 
 A modern resume builder that allows users to create **professional, ATS-friendly PDF resumes instantly** with a clean UI and smooth user experience.
@@ -39,7 +39,7 @@ A modern resume builder that allows users to create **professional, ATS-friendly
 
 ---
 
-### 🛍️ eCommerce Frontend (Portfolio-Ready)  
+### 🛍️ eCommerce Frontend (Portfolio-Ready) (Live)
 **Tech:** React • Tailwind CSS • Reusable Components  
 
 A responsive eCommerce frontend showcasing:
